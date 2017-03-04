@@ -1,0 +1,21 @@
+<component name="libraryTable">
+  <library name="lib">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/IntimaBackend-master/target/intimabackend/WEB-INF/lib/commons-lang-2.6.jar!/" />
+      <root url="jar://$PROJECT_DIR$/IntimaBackend-master/target/intimabackend/WEB-INF/lib/plexus-utils-3.0.24.jar!/" />
+      <root url="jar://$PROJECT_DIR$/IntimaBackend-master/target/intimabackend/WEB-INF/lib/activation-1.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/IntimaBackend-master/target/intimabackend/WEB-INF/lib/java-property-utils-1.9.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/IntimaBackend-master/target/intimabackend/WEB-INF/lib/joda-time-2.9.4.jar!/" />
+      <root url="jar://$PROJECT_DIR$/IntimaBackend-master/target/intimabackend/WEB-INF/lib/slf4j-api-1.7.21.jar!/" />
+      <root url="jar://$PROJECT_DIR$/IntimaBackend-master/target/intimabackend/WEB-INF/lib/logback-classic-1.0.13.jar!/" />
+      <root url="jar://$PROJECT_DIR$/IntimaBackend-master/target/intimabackend/WEB-INF/lib/gson-2.8.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/IntimaBackend-master/target/intimabackend/WEB-INF/lib/javax.mail-1.5.6.jar!/" />
+      <root url="jar://$PROJECT_DIR$/IntimaBackend-master/target/intimabackend/WEB-INF/lib/cors-filter-2.3.jar!/" />
+      <root url="jar://$PROJECT_DIR$/IntimaBackend-master/target/intimabackend/WEB-INF/lib/mysql-connector-java-6.0.4.jar!/" />
+      <root url="jar://$PROJECT_DIR$/IntimaBackend-master/target/intimabackend/WEB-INF/lib/servlet-api-2.5.jar!/" />
+      <root url="jar://$PROJECT_DIR$/IntimaBackend-master/target/intimabackend/WEB-INF/lib/logback-core-1.0.13.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
